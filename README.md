@@ -52,30 +52,6 @@
 <!-- ===================== PROJECTS ===================== -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Expense Management App
-Ứng dụng di động quản lý chi tiêu cá nhân, đồng bộ dữ liệu thời gian thực.
-
-**Tech:** Flutter · Dart · Firebase · SQLite
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Smart Irrigation IoT
-Hệ thống tưới tiêu thông minh dựa trên cảm biến độ ẩm và dữ liệu thời tiết.
-
-**Tech:** ESP32 · IoT · MQTT · Weather API
-
-</td>
-</tr>
-<tr>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=3&width=1200" />
