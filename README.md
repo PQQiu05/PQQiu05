@@ -1,31 +1,27 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/PQQiu05/PQQiu05@main/assets/banner-space.svg" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/PQQiu05/PQQiu05@main/assets/banner-spacev2.svg" width="100%" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;IT+Student+%7C+Software+Developer+%F0%9F%92%BB;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80;Turning+ideas+into+real+projects+%E2%9C%A8" />
 
 
 <!-- ===================== ABOUT ===================== -->
-<h2 align="center">👋 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
 <td>
 
 ```yaml
-name:      "Phùng Quan Quy"
-role:      "IT Student"
-learning:  ["Web", "Mobile", "Backend",]
+         Phùng Quan Quy
+          IT Student
+ĐẠI HỌC CÔNG THƯƠNG TP HCM - HUIT
 ```
 
 </td>
 </tr>
 </table>
-
->  THÍCH LÀM CÁC WEBSITE
-
 <!-- ===================== TECH STACK ===================== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -96,13 +92,13 @@ Hệ thống tưới tiêu thông minh dựa trên cảm biến độ ẩm và d
   <a href="mailto:phungquanquyfoxder05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/">
+  <a href="https://www.facebook.com/share/1BVVYAjnLR/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/">
+  <a href="https://discord.co/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
